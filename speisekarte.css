@@ -1,0 +1,74 @@
+body
+{
+	background-color: black; 
+	background-image: url("https://static.vecteezy.com/ti/fotos-kostenlos/p2/25480731-gemuse-einstellen-und-gewurze-zum-kochen-auf-dunkel-hintergrund-ai-generiert-kostenlos-foto.jpg");
+	margin: 0;
+	padding: 20px;
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    background-position: center;
+	color: black;
+	text-align: center;
+}
+.container
+{
+	margin: 0 auto;
+	text-align: center;
+}
+.container img
+{
+	width: 600px;
+}
+.container img:hover
+{
+	transform: translateY(-10px);
+	transition: 0.5s ease;
+}
+figure img
+{
+	width: 450px;
+	margin-right: 100px;
+	margin-left: 100px;
+	border-radius: 50px;
+}
+.container2
+{
+	padding: 100px;
+	white-space: normal;
+}
+figcaption
+{
+	color: black;
+	font-size: 22px;
+	font-weight: mid;
+	font-family: Noto Sans, sans-serif;
+	background-color: #FF5733;
+	border-radius: 20px;
+	padding: 0.5em 0.2em 0.8em 0.5em;
+	margin: auto;
+	display: inline-block;
+	transform: translateY(-250px)
+}
+.container7 a, .container8 a, .container9 a
+{
+	font-size: 27px;
+	font-weight: mid;
+	font-family: Noto Sans, sans-serif;
+	background-color: #FF5733;
+	border-radius: 20px;
+	padding: 0.5em 0.2em 0.8em 0.5em;
+	margin: 0 auto;
+	color: black;
+}
+.container7, .container8, .container9
+{
+	transform: translateY(-50px);
+	display: inline-block;
+	white-space: pre;
+}
+.container7:hover, .container8:hover, .container9:hover
+{
+	transform: translateY(-60px);
+	transition: 0.5s ease;
+}

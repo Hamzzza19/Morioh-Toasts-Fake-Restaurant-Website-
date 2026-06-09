@@ -1,0 +1,54 @@
+.container
+{
+	margin: 0 auto;
+	text-align: center;
+}
+.container img
+{
+	width: 600px;
+}
+.container img:hover
+{
+	transform: translateY(-10px);
+	transition: 0.5s ease;
+}
+body
+{
+	background-color: black; 
+	background-image: url("https://schweickert.de/uploads/_1200x630_crop_center-center_none/AdobeStock_175728202.jpeg");
+	margin: 0;
+	padding: 20px;
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    background-position: center;
+	color: black;
+	text-align: center;
+}
+.container2 a, .container3 a, .container4 a, .container5 a, .container6 a, .container7 a, .container8 a, .container9 a, .container10 a
+{
+	font-size: 30px;
+	font-weight: mid;
+	font-family: Noto Sans, sans-serif;
+	background-color: #FF5733;
+	border-radius: 20px;
+	padding: 0.5em 0.2em 0.8em 0.5em;
+	margin: 0 auto;
+}
+.container2, .container3, .container4, .container5, .container6, .container7, .container8, .container9, .container10
+{
+	white-space: pre;
+}
+.container2:hover, .container3:hover, .container4:hover, .container5:hover, .container6:hover, .container7:hover, .container8:hover, .container9:hover, .container10:hover
+{
+	transform: translateY(-10px);
+	transition: 0.5s ease;
+}
+.container7, .container8, .container9
+{
+	display: inline-block;
+}
+.container7 a, .container8 a, .container9 a
+{
+	color: black;
+}

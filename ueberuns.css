@@ -1,0 +1,86 @@
+.container
+{
+	margin: 0 auto;
+	text-align: center;
+}
+.container img
+{
+	width: 600px;
+}
+.container img:hover, .container7:hover, .container8:hover, .container9:hover
+{
+	transform: translateY(-10px);
+	transition: 0.5s ease;
+}
+#besch
+{
+	display: inline-block;
+	transform: translateY(-350px);
+}
+#besch
+{
+	color: black;
+	font-size: 22px;
+	font-weight: mid;
+	font-family: Noto Sans, sans-serif;
+	background-color: #FF5733;
+	border-radius: 20px;
+	padding: 0.5em 0.2em 0.8em 0.5em;
+	margin: auto;
+	display: inline-block;
+	transform: translateY(-250px)
+}
+#aw
+{
+	width: 650px;
+}
+#mo
+{
+	width: 700px;
+}
+body
+{
+	background-color: black; 
+	background-image: url("https://img.freepik.com/free-photo/various-vegetables-black-table-with-space-message_1220-616.jpg?w=1800&t=st=1710775878~exp=1710776478~hmac=1b2262c82efcd8ef00e3c7fe34b4dd3fb5171deb6097dc6302d68839d9b8adea");
+	margin: 0;
+	padding: 20px;
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    background-position: center;
+	color: black;
+	text-align: center;
+}
+.container2
+{
+	transform: translateY(50px);
+}
+#gesch
+{
+	color: black;
+	font-size: 22px;
+	font-weight: mid;
+	font-family: Noto Sans, sans-serif;
+	background-color: #FF5733;
+	border-radius: 20px;
+	padding: 0.5em 0.2em 0.8em 0.5em;
+	margin: auto;
+	display: inline-block;
+	transform: translateY(-250px);
+}
+.container7 a, .container8 a, .container9 a
+{
+	font-size: 27px;
+	font-weight: mid;
+	font-family: Noto Sans, sans-serif;
+	background-color: #FF5733;
+	border-radius: 20px;
+	padding: 0.5em 0.2em 0.8em 0.5em;
+	margin: 0 auto;
+	color: black;
+}
+.container7, .container8, .container9
+{
+	display: inline-block;
+	white-space: pre;
+}

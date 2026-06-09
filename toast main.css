@@ -1,0 +1,67 @@
+.container
+{
+	margin: 0 auto;
+	text-align: center;
+}
+#logo
+{
+	width: 400px;
+}
+body
+{
+	background-color: black; 
+	background-image: url("https://images.pexels.com/photos/2403392/pexels-photo-2403392.jpeg?cs=srgb&dl=pexels-yente-van-eynde-2403392.jpg&fm=jpg");
+	margin: 0;
+	padding: 20px;
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    background-position: center;
+	color: black;
+	text-align: center;
+}
+
+.container2
+{
+	text-align: center;
+	transform: translateY(80px);
+}
+.button
+{
+	padding: 7px;
+	background-color: #FF5733;
+	display: inline-block;
+	font-family: Noto Sans, sans-serif;
+	font-size: 60px;
+	border-radius: 10px;
+	border-color: #FF5733;
+}
+.button:hover
+{
+	transform: translateY(-10px);
+	transition: 0.5s ease;
+}
+.container2 a
+{
+	color: black;
+	font-weight: bold;
+}
+.container3 img
+{
+	max-width: 400px;
+}
+.container3
+{
+	text-align: center;
+}
+.container4
+{
+	text-align: left;
+}
+.container4 p
+{
+	transform: translateY(275pX);
+	font-size: 15px;
+	color: grey;
+	font-weight: bold;
+}
